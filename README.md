@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Installing Podfiles took a while to figure out.
 I was still trying to implement the search function but is partially complete so I decided to not include the functionality yet. I will continue to work on it and hopefully be able to get it done soon.
+I also spent some time installing the virtual machine from which to run Mac OS X
 
 ## License
 
