@@ -9,10 +9,10 @@ Time spent: **15** hours spent in total
 The following **required** functionality is complete:
 
 -  User can view a list of movies currently playing in theaters from The Movie Database.
-- [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ ] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
-- [ ] User sees an error message when there's a networking error.  
+-  Poster images are loaded using the UIImageView category in the AFNetworking library.
+-  User sees a loading state while waiting for the movies API.
+-  User can pull to refresh the movie list.
+-  User sees an error message when there's a networking error.  
 
 The following **optional** features are implemented:
 
@@ -22,25 +22,23 @@ The following **optional** features are implemented:
 - [ ] All images fade in as they are loading.
 - [ ] Customize the UI.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/BBkb9oP.gif?1' title='Flicks Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Installing Podfiles took a while to figure out.
+I was still trying to implement the search function but is partially complete so I decided to not include the functionality yet. I will continue to work on it and hopefully be able to get it done soon.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Nuraini Aguse]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
