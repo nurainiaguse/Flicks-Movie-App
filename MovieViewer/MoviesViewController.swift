@@ -70,6 +70,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
             cell.posterView.setImageWithURL(imgUrl!)
             
         }
+       // cell.backgroundColor = UIColor.redColor()
         cell.titleLabel.text = title
         cell.overviewLabel.text = overview
        
