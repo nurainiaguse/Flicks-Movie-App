@@ -92,7 +92,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried to implement the collection view instead of table view but it was difficult since I've already implemented the segues. I spent a lot of time trying to make it work because something went wrong with the navigation controller and the detailsviewcontroller when I changed to collection view. In the end I decided to just stick with table view and make it look nicer and use the extra time to implement the other features.
 
 ## License
 
