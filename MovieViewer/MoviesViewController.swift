@@ -73,7 +73,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
        // cell.backgroundColor = UIColor.redColor()
         cell.titleLabel.text = title
         cell.overviewLabel.text = overview
-       
+        cell.selectionStyle = .None
         
         return cell
     }
